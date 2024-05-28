@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sticky Notes</string>
+    <string name="setTextOnWidget">Set your note…</string>
+    <string name="hintMainActivity">Enter your note…</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#0E0E0E</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primaryYellow">#E9D448</color>
+    <color name="saveButtonColor">#F3D48e</color>
+    <color name="buttonYellow">#FAC609</color>
+    <color name="statusBarColor">#EDDD8B</color>
+</resources>
